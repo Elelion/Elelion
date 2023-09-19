@@ -5,7 +5,6 @@
 
 ### Обо мне:
 
-Я  разработчик. <br>
 Мой путь в Python начался не так давно `1.06.23`, по этому я приравниваю себя к junior. <br>
 
 ---
@@ -65,6 +64,74 @@
 </table>
 
 > Второстепенный стек:
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <b>Frontend</b>
+      <div align="center">  
+        <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
+          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+        </a>  
+        <a href="http://getbem.com/" target="_blank">
+          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" />
+        </a> 
+        <a href="https://gulpjs.com/" target="_blank">
+          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="50" />
+        </a>
+        <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
+          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
+        </a> 
+        <a href="https://reactjs.org/" target="_blank">
+          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
+        </a>  
+        <a href="https://www.w3schools.com/css/" target="_blank">
+          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
+        </a>  
+        <a href="https://sass-lang.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
+        </a>
+        <a href="https://www.javascript.com/" target="_blank">
+          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+        </a>
+        <a href="https://www.typescriptlang.org/" target="_blank">
+          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
+        </a>  
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <b>Backend</b>
+      <div align="center">  
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+        </a>
+        <a href="https://www.php.net/" target="_blank">
+          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
+        </a>
+        <a href="https://www.java.com/" target="_blank">
+          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
+        </a> 
+        <a href="https://www.mysql.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+        </a>  
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <b>AI / Lib's</b>
+      <div align="center">  
+        <a href="https://pandas.pydata.org/" target="_blank">
+          <img style="margin: 10px" src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Keras" height="50" />
+        </a>
+<!--         <a href="https://opencv.org/" target="_blank">
+          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />
+        </a>   -->
+<!--         <a href="https://keras.io/" target="_blank">
+          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />
+        </a> -->
+      </div>
+    </td>
+  </tr>
+</table>  
+
 
 ---
 
@@ -133,77 +200,6 @@ Here are some ideas to get you started:
 
 ---------
 
-
-## My Skill Set  
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <b>Frontend</b>
-      <div align="center">  
-        <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-        </a>  
-        <a href="http://getbem.com/" target="_blank">
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" />
-        </a> 
-        <a href="https://gulpjs.com/" target="_blank">
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="50" />
-        </a>
-        <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-        </a> 
-        <a href="https://reactjs.org/" target="_blank">
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-        </a>  
-        <a href="https://www.w3schools.com/css/" target="_blank">
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-        </a>  
-        <a href="https://sass-lang.com/" target="_blank">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
-        </a>
-        <a href="https://www.javascript.com/" target="_blank">
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-        </a>
-        <a href="https://www.typescriptlang.org/" target="_blank">
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
-        </a>  
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      ### Backend  
-      <div align="center">  
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-        </a>
-        <a href="https://www.php.net/" target="_blank">
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
-        </a>
-        <a href="https://www.java.com/" target="_blank">
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
-        </a> 
-        <a href="https://www.mysql.com/" target="_blank">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-        </a>  
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      ### AI / Lib's
-      <div align="center">  
-        <a href="https://pandas.pydata.org/" target="_blank">
-          <img style="margin: 10px" src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Keras" height="50" />
-        </a>
-<!--         <a href="https://opencv.org/" target="_blank">
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />
-        </a>   -->
-<!--         <a href="https://keras.io/" target="_blank">
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />
-        </a> -->
-      </div>
-    </td>
-  </tr>
-</table>  
-
-<br/>  
 
 
 ## Connect with me  
