@@ -4,11 +4,12 @@
 
 Обо мне:
 
-Я Python разработчик. Мой путь в Python начался не так давно. Ранее я работал 3 года в backend на <img src="https://icons8.ru/icon/fAMVO_fuoOuC/логотип-php" width="32px">, 1 год был в frontend, 
+Я Python разработчик. Мой путь в Python начался не так давно. Ранее я работал 3 года в backend на <img src="https://icons8.ru/icon/fAMVO_fuoOuC/логотип-php](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php.svg)" width="32px">, 1 год был в frontend, 
 
 ---
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ell
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+My name is Ell
 ===========================================================================================================================
 
 Python developer
