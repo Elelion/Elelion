@@ -12,13 +12,71 @@
 
 ### Предыдущий опыт:
 
-До того как прийти к <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="18px"> я работал в других сферах IT.
-<br>
-
+До того как прийти к <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="18px"> я работал в других сферах IT
+*   9 мес в backend на Java
 *   3 года в backend на PHP
 *   1 год в frontend на HTML+CSS+JS+React+PUG+SCSS+Gulp
+*   1 год в Android dev на C++
 
+---
 
+### 💻 Технологии:
+
+> Текущий стек:
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>Jsonnet
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+      </a>
+      <br>Debian
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Grafana
+    </td>
+  </tr>
+</table>
+
+---
 
 *   🌍  I'm based in I'M BASED IN:
 *   🚀  I'm currently working on [текущая работа](http://работа)
@@ -66,61 +124,6 @@
     </a></p>
 
 
-
----
-> Tools, languages, and other things that I like to work with.
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Jsonnet
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
-    </td>
-  </tr>
-</table>
 
 
 
