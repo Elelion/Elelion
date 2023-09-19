@@ -5,13 +5,13 @@
 
 ### Обо мне:
 
-Я <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python.svg" width="14px"> разработчик. <br>
+Я <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="14px"> разработчик. <br>
 Мой путь в Python начался не так давно, по этому я приравниваю себя к junior. <br>
 
 ---
 
 ### Предыдущий опыт:
-Ранее я работал 3 года в backend на <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php.svg" width="36px">, 1 год был в frontend, 
+Ранее я работал 3 года в backend на <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="16px">, 1 год был в frontend, 
 
 LONG DESCRIPTION:
 
