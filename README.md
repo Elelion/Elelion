@@ -1,11 +1,11 @@
 <h1 align="left" id="macropower-title">:wave: Привет!</h1>
-<h3 align="left">Я Python разработчик</h3>
+<h3 align="left">Я <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="28px"> разработчик</h3>
 
 ---
 
 ### Обо мне:
 
-Я <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="18px"> разработчик. <br>
+Я  разработчик. <br>
 Мой путь в Python начался не так давно `1.06.23`, по этому я приравниваю себя к junior. <br>
 
 ---
