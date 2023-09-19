@@ -19,7 +19,7 @@
 
 ### Предыдущий опыт:
 
-До того как прийти к <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="18px"> я работал в других сферах IT
+До того как сменить стек, я работал в других сферах IT
 *   9 мес в backend на Java
 *   3 года в backend на PHP
 *   1 год в frontend
