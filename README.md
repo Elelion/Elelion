@@ -6,7 +6,7 @@
 ### Обо мне:
 
 Я <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="18px"> разработчик. <br>
-Мой путь в Python начался не так давно, по этому я приравниваю себя к junior. <br>
+Мой путь в Python начался не так давно `1.06.23`, по этому я приравниваю себя к junior. <br>
 
 ---
 
