@@ -1,4 +1,10 @@
-### Hi there 👋
+### Привет 👋
+
+---
+
+Обо мне:
+
+Я Python разработчик. Мой путь в Python начался не так давно. Ранее я работал 3 года в backend на [PHP](https://icons8.ru/icon/fAMVO_fuoOuC/логотип-php), 1 год был в frontend, 
 
 <!--
 **Elelion/Elelion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
