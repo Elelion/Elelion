@@ -11,9 +11,14 @@
 ---
 
 ### Предыдущий опыт:
+
+До того как прийти к <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="18px"> я работал в других сферах IT.
+<br>
+
 Ранее я работал 3 года в backend на <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="18px">, 1 год был в frontend, 
 
-LONG DESCRIPTION:
+* test
+
 
 *   🌍  I'm based in I'M BASED IN:
 *   🚀  I'm currently working on [текущая работа](http://работа)
