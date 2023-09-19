@@ -1,5 +1,5 @@
 <h1 align="left" id="macropower-title">:wave: Привет!</h1>
-<h3 align="left">Я <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="28px"> разработчик</h3>
+<h3 align="left">Я <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="22px" alt="Python"> разработчик</h3>
 
 ---
 
