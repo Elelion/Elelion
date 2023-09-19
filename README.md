@@ -4,7 +4,7 @@
 
 Обо мне:
 
-Я Python разработчик. Мой путь в Python начался не так давно. Ранее я работал 3 года в backend на <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php.svg" width="32px">, 1 год был в frontend, 
+Я Python разработчик. Мой путь в Python начался не так давно. Ранее я работал 3 года в backend на <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php.svg">, 1 год был в frontend, 
 
 ---
 
