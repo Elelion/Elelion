@@ -5,7 +5,15 @@
 
 ### Обо мне:
 
-Мой путь в Python начался не так давно `1.06.23`, по этому я приравниваю себя к junior. <br>
+Мой путь в Python начался не так давно `1.06.23`, по этому я приравниваю себя к junior
+<br>
+Решил перейти на Python, тк нужно было бы быстро закрывать требуемые рабочие задачи
+<br>
+Параллельно для себя так же изучаю С++
+<br>
+Решил остановиться именно на данном стеке тк есть с чем сравнивать, и нашел свое
+<br>
+На данный момент развиваюсь в сфере Web, автоматизации, DS/ML
 
 ---
 
@@ -14,14 +22,15 @@
 До того как прийти к <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="18px"> я работал в других сферах IT
 *   9 мес в backend на Java
 *   3 года в backend на PHP
-*   1 год в frontend на HTML+CSS+JS+React+PUG+SCSS+Gulp
+*   1 год в frontend
 *   1 год в Android dev на C++
+*   с 2010г системный администратор Windows, на данный момент Senior на part-time
 
 ---
 
 ### Технологии:
 
-> Текущий стек:
+> Основной стек:
 <table>
   <tr>
     <td align="center" width="96">
@@ -51,18 +60,6 @@
   </tr>
 </table>
 
-> Основной стек:
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="48" height="48" alt="Html" />
-      </a>
-      <br>Htlm
-    </td>
-  </tr>
-</table>
-
 > Второстепенный стек:
 <table>
   <tr>
@@ -70,7 +67,7 @@
       <b>Frontend</b>
       <div align="center">  
         <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+          <img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" height="50" />
         </a>  
         <a href="http://getbem.com/" target="_blank">
           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" />
@@ -88,7 +85,7 @@
           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
         </a>  
         <a href="https://sass-lang.com/" target="_blank">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
+          <img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
         </a>
         <a href="https://www.javascript.com/" target="_blank">
           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
@@ -102,7 +99,7 @@
       <b>Backend</b>
       <div align="center">  
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+          <img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
         </a>
         <a href="https://www.php.net/" target="_blank">
           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
@@ -111,12 +108,12 @@
           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
         </a> 
         <a href="https://www.mysql.com/" target="_blank">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+          <img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
         </a>  
       </div>
     </td>
     <td valign="top" width="33%">
-      <b>AI / Lib's</b>
+      <b>DS / ML</b>
       <div align="center">  
         <a href="https://pandas.pydata.org/" target="_blank">
           <img style="margin: 10px" src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Keras" height="50" />
@@ -156,23 +153,23 @@
                     </p>
                     
 ### Socials
-                  
-                  
+                                 
 <p align="left">
-      <a href="https://www.github.com/Elelion" target="_blank" rel="noreferrer">
+  <a href="https://www.github.com/Elelion" target="_blank" rel="noreferrer">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
     </picture>
-    </a>
-      <a href="https://www.linkedin.com/in/ell" target="_blank" rel="noreferrer">
+  </a>
+  <a href="https://www.linkedin.com/in/alexander-gints-b75046197/" target="_blank" rel="noreferrer">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
     </picture>
-    </a></p>
+  </a>
+</p>
 
 
 
