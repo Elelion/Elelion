@@ -111,9 +111,12 @@
     </td>
     <td valign="top" width="33%">
       <b>DS / ML</b>
-      <div align="center">  
+      <div align="center"> 
+        <a href="https://numpy.org" target="_blank">
+          <img style="margin: 10px" src="https://numpy.org/images/logo.svg" alt="NumPy" height="50" />
+        </a>
         <a href="https://pandas.pydata.org/" target="_blank">
-          <img style="margin: 10px" src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Keras" height="50" />
+          <img style="margin: 10px" src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" height="50" />
         </a>
 <!--         <a href="https://opencv.org/" target="_blank">
           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />
