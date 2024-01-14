@@ -45,6 +45,12 @@
       </a>
       <br>Django
     </td>
+    <td align="center" width="96">
+      <a href="https://www.sqlite.org/index.html">
+        <img src="https://www.sqlite.org/images/sqlite370_banner.gif" width="48" height="48" alt="SQLLite" />
+      </a>
+      <br>Django
+    </td>
   </tr>
 </table>
 
