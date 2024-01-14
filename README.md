@@ -85,7 +85,9 @@
     </td>
     <td valign="top" width="33%">
       <b>Backend</b>
-      <div align="center">  
+        <a href="https://isocpp.org/blog/category/news" target="_blank" rel="noreferrer">
+          <img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="48" height="48" alt="Flask" />
+        </a>      
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
           <img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
         </a>
