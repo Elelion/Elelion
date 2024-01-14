@@ -49,7 +49,7 @@
       <a href="https://www.sqlite.org/index.html">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/764px-SQLite370.svg.png" width="48" height="48" alt="SQLLite" />
       </a>
-      <br>Django
+      <br>SQLLite
     </td>
   </tr>
 </table>
