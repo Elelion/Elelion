@@ -45,12 +45,6 @@
       </a>
       <br>Django
     </td>
-    <td align="center" width="96">
-      <a href="https://isocpp.org/blog/category/news">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="48" height="48" alt="Flask" />
-      </a>
-      <br>C++
-    </td>
   </tr>
 </table>
 
