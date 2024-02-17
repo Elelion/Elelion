@@ -15,12 +15,12 @@
 
 ### Предыдущий опыт:
 
-До того как сменить стек, я работал в других сферах IT
-*   9 мес в backend на Java
-*   3 года в backend на PHP
-*   1 год в frontend
-*   1 год в Android dev на C++
-*   с 2010г системный администратор Windows, на данный момент Senior, part-time
+До того как сменить стек, работал в других сферах IT
+*   9 мес backend на Java
+*   3 года backend на PHP
+*   1 год frontend
+*   1 год Android dev на C++
+*   с 2010г системный администратор Windows, Senior, part-time
 
 ---
 
