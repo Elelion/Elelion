@@ -41,7 +41,7 @@ Before changing my stack, I worked in various IT fields:
     </td>
     <td align="center" width="96">
       <a href="https://www.django-rest-framework.org">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="48" height="48" alt="DRF" />
+        <img src="https://www.django-rest-framework.org/img/logo.png" width="48" height="48" alt="DRF" />
       </a>
       <br>DRF
     </td>
