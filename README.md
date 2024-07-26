@@ -40,6 +40,12 @@ Before changing my stack, I worked in various IT fields:
       <br>Django
     </td>
     <td align="center" width="96">
+      <a href="https://www.django-rest-framework.org">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="48" height="48" alt="DRF" />
+      </a>
+      <br>DRF
+    </td>
+    <td align="center" width="96">
       <a href="https://www.sqlite.org/index.html">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/764px-SQLite370.svg.png" width="48" height="48" alt="SQLLite" />
       </a>
