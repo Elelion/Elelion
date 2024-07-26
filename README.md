@@ -28,19 +28,19 @@ Before changing my stack, I worked in various IT fields:
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="https://www.python.org">
+      <a href="https://www.python.org" target="_blank">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="https://www.djangoproject.com">
+      <a href="https://www.djangoproject.com" target="_blank">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="48" height="48" alt="Django" />
       </a>
       <br>Django
     </td>
     <td align="center" width="96">
-      <a href="https://www.django-rest-framework.org">
+      <a href="https://www.django-rest-framework.org" target="_blank">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="48" height="48" alt="DRF" />
       </a>
       <br>DRF
@@ -97,9 +97,6 @@ Before changing my stack, I worked in various IT fields:
         </a> 
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
           <img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-        </a>
-        <a href="https://flask.palletsprojects.com/en/2.3.x/">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="48" height="48" alt="Flask" />
         </a>
         <a href="https://www.php.net/" target="_blank">
           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
