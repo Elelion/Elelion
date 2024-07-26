@@ -148,6 +148,13 @@ Before changing my stack, I worked in various IT fields:
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
     </picture>
   </a>
+  <a href="https://stepik.org/users/625604695/profile" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://stepik.org/static/frontend/topbar_logo.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://stepik.org/static/frontend/topbar_logo.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+    </picture>
+  </a>
 </p>
 
 <!--
