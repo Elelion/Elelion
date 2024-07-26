@@ -3,7 +3,7 @@
 
 ---
 
-### Обо мне:
+### About me:
 
 I started my journey with Python on `1.06.23` 💪
 <br>
