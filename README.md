@@ -150,9 +150,9 @@ Before changing my stack, I worked in various IT fields:
   </a>
   <a href="https://stepik.org/users/625604695/profile" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://stepik.org/static/frontend/topbar_logo.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://avatars.githubusercontent.com/u/6727350?s=200&v=4" />
-      <img src="<path xmlns="http://www.w3.org/2000/svg" fill="#222222" d="M64.7,79.9c-3.1,3-7.4,4.9-12,4.9c-4.8,0-9.1-1.9-12.3-5.1l8.1-8.1c1.1,1.1,2.5,1.7,4.2,1.7    c1.6,0,3.1-0.7,4.2-1.7l16.4-16.4c1.1-1.1,1.7-2.5,1.7-4.2c0-1.6-0.7-3.1-1.7-4.2c-1.1-1.1-2.5-1.7-4.2-1.7s-3.1,0.7-4.2,1.7    L48.5,63.3c-3.1,3.1-7.5,5.1-12.3,5.1c-4.8,0-9.1-2-12.3-5.1c-3.1-3.1-5.1-7.5-5.1-12.3c0-4.8,1.9-9.1,5.1-12.3l16.4-16.4    c3.1-3.1,7.5-5.1,12.3-5.1s9.1,1.9,12.3,5.1l-8.1,8.1c-1.1-1.1-2.5-1.7-4.2-1.7s-3.1,0.7-4.2,1.7L32,46.8    c-1.1,1.1-1.7,2.5-1.7,4.2c0,1.6,0.7,3.1,1.7,4.2c1.1,1.1,2.5,1.7,4.2,1.7c1.6,0,3.1-0.7,4.2-1.7l16.4-16.4    c3.1-3.1,7.5-5.1,12.3-5.1s9.1,1.9,12.3,5.1c3.1,3.1,5.1,7.5,5.1,12.3c0,4.8-1.9,9.1-5.1,12.3L64.7,79.9z"/>" width="32" height="32" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/4/42/Stepik_logotype.png" />
+      <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/4/42/Stepik_logotype.png" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Stepik_logotype.png" width="32" height="32" />
     </picture>
   </a>
 </p>
