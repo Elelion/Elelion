@@ -151,7 +151,7 @@ Before changing my stack, I worked in various IT fields:
   <a href="https://stepik.org/users/625604695/profile" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://stepik.org/static/frontend/topbar_logo.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://stepik.org/static/frontend/topbar_logo.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://avatars.githubusercontent.com/u/6727350?s=200&v=4" />
       <img src="https://stepik.org/static/frontend/topbar_logo.svg" width="32" height="32" />
     </picture>
   </a>
