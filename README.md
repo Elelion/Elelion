@@ -5,26 +5,26 @@
 
 ### Обо мне:
 
-Мой путь в Python начался `1.06.23` 💪
+I started my journey with Python on `1.06.23` 💪
 <br>
-Перешел на Python, из за его гибкости
+I switched to Python because of its flexibility.
 
 ---
 
-### Предыдущий опыт:
+### Previous experience:
 
-До того как сменить стек, работал в других сферах IT
-*   9 мес backend на Java
-*   3 года backend на PHP
-*   1 год frontend
-*   1 год Android dev на C++
-*   с 2010г системный администратор Windows, Senior, part-time
+Before changing my stack, I worked in various IT fields:
+*   9 months of backend development in Java
+*   3 years of backend development in PHP
+*   1 year of frontend development
+*   1 year of Android development in C++
+*   Since 2010, part-time Senior Windows System Administrator
 
 ---
 
-### Технологии:
+### Technologies:
 
-> Основной стек:
+> Main Stack:
 <table>
   <tr>
     <td align="center" width="96">
@@ -48,7 +48,7 @@
   </tr>
 </table>
 
-> Второстепенный стек:
+> Secondary Stack:
 <table>
   <tr>
     <td valign="top" width="33%">
