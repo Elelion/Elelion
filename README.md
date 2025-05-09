@@ -53,7 +53,7 @@ Before changing my stack, I worked in various IT fields:
     </td>
     <td align="center" width="96">
       <a href="https://www.sqlite.org/index.html">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/250px-Selenium_Logo.png width="48" height="48" alt="SQLLite" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/250px-Selenium_Logo.png" width="48" height="48" alt="Selenium" />
       </a>
       <br>Selenium
     </td>
